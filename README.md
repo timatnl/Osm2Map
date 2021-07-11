@@ -1,6 +1,8 @@
 # Osm2Map (Real world in Minecraft)
 
-Osm2Map is only available for `Spigot 1.12.2` for now
+Osm2Map is only available for `Spigot 1.12.2` for now.
+
+I Tim owner of Tim-nl will be updating this plugin to newest versions! you can see a preview on my server play.eindjeminecraft.nl (Not yet running this version!)
 
 [Download Here](https://github.com/Wardenfar/Osm2Map/releases)
 
